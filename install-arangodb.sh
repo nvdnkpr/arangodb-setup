@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 wget http://www.arangodb.org/repositories/arangodb/xUbuntu_12.04/Release.key
 apt-key add - < Release.key
